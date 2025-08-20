@@ -39,4 +39,4 @@ Dalam proyek ini, saya membangun model **Deep Learning berbasis CNN (Convolution
 ## 📊 Submission Review
 Berikut contoh hasil review submission proyek:
 
-![Submission Review](images/submission_review.png)
+![Submission Review](proyek_klasifikasi_gambar/images/submission_review.png)
